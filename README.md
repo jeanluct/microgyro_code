@@ -1,14 +1,13 @@
 # waveswim.f90
 
-This repository contains Fortran 90 code for the paper "[
-Microswimmer trapping in surface waves with shear][1]" by [Francesco Michele Ventrella][2], Nimish Pujara, Guido Boffetta, Massimo Cencini, Jean-Luc Thiffeault and Filippo De Lillo
+This repository contains Fortran 90 code for the paper "[Microswimmer trapping in surface waves with shear][1]" by [Francesco Michele Ventrella][2], Nimish Pujara, Guido Boffetta, Massimo Cencini, Jean-Luc Thiffeault and Filippo De Lillo.
 
 ## Code and parameter file
 
 The following files part of this repository:
 
-* wavesiwm.f90    - Code that integrates the trajectory of a swimmer
-* input.dat   - input file
+* wavesiwm.f90    - code that integrates the trajectory of a swimmer
+* input.dat       - input file
 
 ## Citing this work
 
@@ -32,9 +31,9 @@ BibTeX entry:
 ## License
 
 This code is released under the MIT License.  See the file
-[LICENSE][4] for copying permission.
+[LICENSE.txt][4] for copying permission.
 
 [1]: https://arxiv.org/abs/2304.14028 
 [2]: francescomichele.ventrella@unito.it 
 [3]: https://doi.org/10.48550/arXiv.2304.14028
-[4]: link to the license
+[4]: https://opensource.org/license/mit/
