@@ -1,0 +1,39 @@
+0.d0
+1.d4
+0.01d0
+-100.d0
+0.1d0
+0.6d0
+0.1d0
+0.01d0
+0.0d0
+-0.d0
+4.71238898038469d0
+1.d3
+0.5d0
+6
+0.0d0
+0.0d0
+10
+
+
+
+This list of numerical parameters has been used for the running that leads to Fig.2
+
+read(3,*) ti !starting time
+read(3,*) tf !ending time
+read(3,*) h !integration time step
+read(3,*) beta !characteristic depth (negative value)
+read(3,*) a !wave's amplitude
+read(3,*) lamda !elongation parameter
+read(3,*) alfa !steepness
+read(3,*) nu !adimesional swimming speed
+read(3,*) xo !x initial condition
+read(3,*) zo !z initial condition
+read(3,*) phio !angular initial condition
+read(3,*) Psi !nondimensional gyrotactic time
+read(3,*) hz !step for initial condition of trajectories on vertical axis
+read(3,*) M !number of trajectories
+read(3,*) vg !settling velocity
+read(3,*) sigma !nondimensional shear parameter
+read(3,*) iout !prints swimmer positions every iou steps
