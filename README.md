@@ -6,12 +6,12 @@ This repository contains Fortran 90 code for the paper "[Microswimmer trapping i
 
 The following files part of this repository:
 
-* wavesiwm.f90    - code that integrates the trajectory of a swimmer
-* input.dat       - input file
+* `wavesiwm.f90`    - code that integrates the trajectory of a swimmer
+* `input.dat`       - input file
 
 ## Citing this work
 
-FM Ventrella, et al. "Microswimmer trapping in surface waves with shear", 	arXiv:2304.14028 [physics.flu-dyn]
+FM Ventrella, et al. "Microswimmer trapping in surface waves with shear", arXiv:2304.14028 [physics.flu-dyn]
 DOI: [10.48550/arXiv.2304.14028][3]
 BibTeX entry:
 ```latex
@@ -30,8 +30,8 @@ BibTeX entry:
 
 ## License
 
-This code is released under the MIT License.  See the file
-[LICENSE.txt][4] for copying permission.
+This code is released under the [MIT License][4].  See the file
+`LICENSE.txt` for copying permission.
 
 [1]: https://arxiv.org/abs/2304.14028 
 [2]: francescomichele.ventrella@unito.it 
